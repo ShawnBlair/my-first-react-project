@@ -1,0 +1,22 @@
+{
+  "homepage": "http://ShawnBlair.github.io/my-first-react-project",
+  "name": "project",
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "gh-pages": "^5.0.0",
+    "webpack": "^2.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "webpack",
+    "watch": "webpack -w"
+  }
+}
