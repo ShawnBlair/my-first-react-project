@@ -1,6 +1,10 @@
 # First React project
 
-Quick start:
+## Introduction
+
+This is my first react code to push. I am learning react through Scrimba.
+
+<!--Quick start:
 
 ```
 $ yarn # npm install
@@ -12,7 +16,7 @@ $ yarn build # npm run build
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch # npm run watch
+$ yarn watch # npm run watch-->
 ```
 
 ## About Scrimba
